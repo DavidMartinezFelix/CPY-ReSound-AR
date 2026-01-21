@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ReSound AR Experience",
+  "description": "A premium Augmented Reality viewer for hearing aid products with AI-powered assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
